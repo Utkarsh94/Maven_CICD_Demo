@@ -84,7 +84,7 @@ public class loginServlet extends HttpServlet {
            
             
             try {
-                   if (emailadd.equals("utkarshrastogi5@gmail.com") && pass.equals("test12")) {
+                   if (emailadd.equals("abc@gmail.com") && pass.equals("test12")) {
                        
                      HttpSession session=request.getSession();
                      session.setAttribute("name","Utkarsh");
