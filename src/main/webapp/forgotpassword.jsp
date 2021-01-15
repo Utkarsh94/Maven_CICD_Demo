@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>  Veena Tarang CHS</title>
+    <title>ForgotPassword</title>
 <link rel="stylesheet" href="support/vendor/bootstrap/css/bootstrap.css"/>
     <link rel="stylesheet" href="support/dist/css/bootstrapValidator.css"/>
      
@@ -55,7 +55,7 @@
                         </div>
                          <div class="form-group">
                         <hr/>
-                         <div class="col-sm-6" style="padding: 0;"><a href="index.jsp">Home Page</a></div>
+                         <div class="col-sm-6" style="padding: 0;"><a href="index.jsp" id="home">Home Page</a></div>
                     </div>
                     </form>
                 </div>

@@ -57,7 +57,7 @@
                         </div>
                          <div class="form-group">
                         <hr/>
-                        <div class="col-sm-6" style="padding: 0;"><a href="forgotpassword.jsp">Forgot Password?</a></div>
+                        <div class="col-sm-6" style="padding: 0;"><a href="forgotpassword.jsp" id="forgotpassword">Forgot Password?</a></div>
                        
                     </div>
                     </form>

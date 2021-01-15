@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>  Veena Tarang CHS</title>
+        <title>Error Page</title>
         <link rel="stylesheet" href="support/vendor/bootstrap/css/bootstrap.css"/>
     <link rel="stylesheet" href="support/dist/css/bootstrapValidator.css"/> 
      <script type="text/javascript" src="support/vendor/jquery/jquery.min.js"></script>
