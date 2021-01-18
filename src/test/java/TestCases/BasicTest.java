@@ -22,14 +22,14 @@ public class BasicTest {
       Calculator calculator = new Calculator();
          @Test
     public void shouldAddTwoNumbers() {
-        assertEquals(5,calculator.add(2,3));
+        assertEquals(3,calculator.add(2,3));
     }
     
    
 
     @Test
     public void shouldMultiplyTwoNumbers() {
-      assertEquals(8,calculator.multiply(2,3));
+      assertEquals(6,calculator.multiply(2,3));
     }
 
 }
